@@ -1,1 +1,1 @@
-Commencing Python programming language at ALX school of software engineering
+Learning python at ALX. Only God can save any code I come across when I'm done learning.
